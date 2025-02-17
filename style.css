@@ -1,21 +1,25 @@
 *{
-    padding: 0;
-    margin: 0;
+    padding: 0.5;
+    margin: 0.5;
     box-sizing: border-box;
 }
 
 header{
     background-color: rgba(0, 157, 248, 0.952);
-    color: azure;
-    background-image: url("../html-css-booleaner/img/pattern.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: bottom;
-    height: 100px;
+    height: 75px;
+    width: 800;
 }
 
 .header-logo{
     width: 175px;
+    background-color: rgba(0, 157, 248, 0.952);
+    background-image: url("../html-css-booleaner/img/pattern.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
 }
 
 .color-aqua{
@@ -23,9 +27,9 @@ header{
 }
 
 .color-grey{
-    color: rgb(68, 67, 67);
+    color: rgb(117, 116, 116);
 }
 
 .color-yellow{
-    color: rgb(243, 243, 9);
+    background-color: rgb(243, 243, 9);
 }
