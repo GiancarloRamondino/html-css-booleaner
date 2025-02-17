@@ -38,6 +38,7 @@ header{
 background-color: rgb(0, 119, 255);
 color: rgb(0, 195, 255);
 height: 5px;
+width: 175px
 }
 
 .spazio{
@@ -46,10 +47,12 @@ height: 5px;
 
 .bcolor-acqua{
     background-color: rgb(0, 204, 255);
+    width: 175px
 }
 
 .immagine_1{
-    width: 175px;
+    width: 200px;
+    height: 200px;
     background-image: url("../html-css-booleaner/img/monitor.jpg");
     background-size: cover;
     background-repeat: no-repeat;
@@ -58,10 +61,12 @@ height: 5px;
 }
 
 .immagine_2{
-    width: 175px;
+    width: 200px;
+    height: 200px;
     background-image: url("../img/graph.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: bottom;
-    color: aliceblue;
+    color: aliceblue; 
+    
 }
