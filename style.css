@@ -37,9 +37,13 @@ header{
 .bcolor-blue{
 background-color: rgb(0, 119, 255);
 color: rgb(0, 195, 255);
-height: 10px;
+height: 5px;
 }
 
 .spazio{
     width: 175px;
+}
+
+.bcolor-acqua{
+    background-color: rgb(0, 204, 255);
 }
