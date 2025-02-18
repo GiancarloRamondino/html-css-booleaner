@@ -54,10 +54,15 @@ empty-cells: show;
 
 .spazio{
     width: 19%;
+    
 }
 
 .spazio1{
     width: 48%;
+}
+
+.spazio2{
+    border-collapse: collapse;
 }
 
 .bcolor-acqua{
@@ -82,13 +87,13 @@ empty-cells: show;
     text-align: center;
 }
 
-#bodertable{
+#borderpage{
 border-right: solid rgb(255, 252, 252) 50px;
 border-left: solid rgb(255, 252, 252) 50px;
 border-top: solid rgb(255, 252, 252) 10px;;
 }
 
-#bodertable-table{
+#border-li{
     border: solid rgb(255, 252, 252) 25px;
     }
-
+    
